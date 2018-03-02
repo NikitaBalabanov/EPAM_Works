@@ -1,0 +1,7 @@
+C:\Users\USERADM\source\repos\WorkAll\Work 1\bin\Debug\Work 1.exe.config
+C:\Users\USERADM\source\repos\WorkAll\Work 1\bin\Debug\Work 1.exe
+C:\Users\USERADM\source\repos\WorkAll\Work 1\bin\Debug\Work 1.pdb
+C:\Users\USERADM\source\repos\WorkAll\Work 1\obj\Debug\Work 1.csprojResolveAssemblyReference.cache
+C:\Users\USERADM\source\repos\WorkAll\Work 1\obj\Debug\Work 1.csproj.CoreCompileInputs.cache
+C:\Users\USERADM\source\repos\WorkAll\Work 1\obj\Debug\Work 1.exe
+C:\Users\USERADM\source\repos\WorkAll\Work 1\obj\Debug\Work 1.pdb

@@ -1,0 +1,6 @@
+C:\Users\USERADM\source\repos\Works_2\Work_2_2\bin\Debug\Work_2_2.exe.config
+C:\Users\USERADM\source\repos\Works_2\Work_2_2\bin\Debug\Work_2_2.exe
+C:\Users\USERADM\source\repos\Works_2\Work_2_2\bin\Debug\Work_2_2.pdb
+C:\Users\USERADM\source\repos\Works_2\Work_2_2\obj\Debug\Work_2_2.csproj.CoreCompileInputs.cache
+C:\Users\USERADM\source\repos\Works_2\Work_2_2\obj\Debug\Work_2_2.exe
+C:\Users\USERADM\source\repos\Works_2\Work_2_2\obj\Debug\Work_2_2.pdb

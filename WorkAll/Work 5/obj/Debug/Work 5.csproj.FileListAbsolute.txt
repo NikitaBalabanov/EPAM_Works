@@ -1,6 +1,0 @@
-C:\Users\USERADM\source\repos\WorkAll\Work 5\bin\Debug\Work 5.exe.config
-C:\Users\USERADM\source\repos\WorkAll\Work 5\bin\Debug\Work 5.exe
-C:\Users\USERADM\source\repos\WorkAll\Work 5\bin\Debug\Work 5.pdb
-C:\Users\USERADM\source\repos\WorkAll\Work 5\obj\Debug\Work 5.csproj.CoreCompileInputs.cache
-C:\Users\USERADM\source\repos\WorkAll\Work 5\obj\Debug\Work 5.exe
-C:\Users\USERADM\source\repos\WorkAll\Work 5\obj\Debug\Work 5.pdb

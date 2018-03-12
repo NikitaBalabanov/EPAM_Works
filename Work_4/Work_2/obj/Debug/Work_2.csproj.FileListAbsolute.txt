@@ -1,0 +1,6 @@
+C:\Users\Balin\source\repos\Work_4\Work_2\bin\Debug\Work_2.exe.config
+C:\Users\Balin\source\repos\Work_4\Work_2\bin\Debug\Work_2.exe
+C:\Users\Balin\source\repos\Work_4\Work_2\bin\Debug\Work_2.pdb
+C:\Users\Balin\source\repos\Work_4\Work_2\obj\Debug\Work_2.csproj.CoreCompileInputs.cache
+C:\Users\Balin\source\repos\Work_4\Work_2\obj\Debug\Work_2.exe
+C:\Users\Balin\source\repos\Work_4\Work_2\obj\Debug\Work_2.pdb

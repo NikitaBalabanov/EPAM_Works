@@ -1,0 +1,7 @@
+C:\Users\USERADM\source\repos\Work_3\Work_3\bin\Debug\Work_3.exe.config
+C:\Users\USERADM\source\repos\Work_3\Work_3\bin\Debug\Work_3.exe
+C:\Users\USERADM\source\repos\Work_3\Work_3\bin\Debug\Work_3.pdb
+C:\Users\USERADM\source\repos\Work_3\Work_3\obj\Debug\Work_3_1.csprojResolveAssemblyReference.cache
+C:\Users\USERADM\source\repos\Work_3\Work_3\obj\Debug\Work_3_1.csproj.CoreCompileInputs.cache
+C:\Users\USERADM\source\repos\Work_3\Work_3\obj\Debug\Work_3.exe
+C:\Users\USERADM\source\repos\Work_3\Work_3\obj\Debug\Work_3.pdb
